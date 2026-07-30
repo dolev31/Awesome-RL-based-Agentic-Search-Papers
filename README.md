@@ -744,6 +744,7 @@ Below is a compact checklist of commonly used evaluation signals for RL-based ag
 | 2026.1 | [DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report](https://arxiv.org/abs/2601.08536) | Rubric-Based Expert-Report Benchmark | *arXiv* |
 | 2026.1 | [DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://arxiv.org/abs/2601.09688) | Automated Task Construction + Agentic Evaluation | *arXiv* |
 | 2026.4 | [AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web](https://arxiv.org/abs/2604.10938) | Multi-Agent Coordination Benchmark for Agentic Web | *arXiv* |
+| 2026.4 | [ClawBench: A Benchmark for Evaluating AI Agents on Real-World Online Tasks](https://arxiv.org/abs/2604.08523) ([Code](https://github.com/reacher-z/ClawBench), [Project](https://claw-bench.com/)) | Live-website, long-horizon browser-agent benchmark with reproducible task execution and layered traces | *arXiv* |
 | 2026.4 | [MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments](https://arxiv.org/abs/2604.13418) | Multimodal Noisy-Web Retrieval + Reasoning Benchmark | *arXiv* |
 | 2026.2 | [LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News](https://arxiv.org/abs/2602.13543) | Fresh News Benchmark for Agentic Web Search | *arXiv* |
 | 2025.12 | [LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services](https://arxiv.org/abs/2512.07436) | Vertical-Domain Benchmark for Local-Life Agentic Search | *arXiv* |
